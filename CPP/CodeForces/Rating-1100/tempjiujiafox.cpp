@@ -1,0 +1,2 @@
+
+Solution type: Brute Force
