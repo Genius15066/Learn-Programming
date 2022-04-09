@@ -1,5 +1,5 @@
 /*
-    Problem Name:  Kadanae's Algorithm
+    Problem Name:  Kadanae's Algorithm problem
     Solving Date: 29-03-2022
 */
 #include <bits/stdc++.h>
